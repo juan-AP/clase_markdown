@@ -9,6 +9,9 @@
 > Texto extra 1<br/>
 > otro texto 
 <br/>
+
+![logo](BMW_logo_(gray).svg)
+
 [enlace](https://dillinger.io/)
 <br/>
 <h5>hola desde MD</h5>
