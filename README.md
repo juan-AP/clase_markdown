@@ -10,7 +10,7 @@
 > otro texto 
 <br/>
 
-![logo](BMW_logo_(gray).svg)
+![logo](BMW_logo_(gray).svg.png)
 
 [enlace](https://dillinger.io/)
 <br/>
